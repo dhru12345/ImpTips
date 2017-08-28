@@ -1,0 +1,21 @@
+1. what is difference between shadowing and overriding
+    http://www.c-sharpcorner.com/UploadFile/ff2f08/overriding-vs-shadowing-in-C-Sharp/
+2. What is diffence between Agile, Iterative, Waterfall methodology
+   https://www.linkedin.com/pulse/agile-iterative-incremental-waterfall-manish-thakkar
+3. Windows Workflow Foundation
+http://www.codeguru.com/csharp/.net/net_workflow/article.php/c18081/Working-with-Windows-Workflow-Foundation-4.htm#page-1
+4. Different types of polymorphism in c#.
+   https://www.tutorialspoint.com/csharp/csharp_polymorphism.htm
+5.   Delegates , events , difference between them
+    https://www.tutorialspoint.com/csharp/csharp_delegates.htm
+6. Different type of Joins
+http://www.diffen.com/difference/Inner_Join_vs_Outer_Join
+6. RESTful web services (SOAP/REST) -Study the WCF based SOAP Web Services for .NET
+  Web service architecture & Introduction (https://www.guru99.com/web-service-architecture.html)
+
+  https://www.guru99.com/restful-web-services.html (Good explanation)
+  https://www.codeproject.com/Articles/255684/Create-and-Consume-RESTFul-Service-in-NET-Framewor    (Window Based)
+  https://www.tutorialspoint.com/restful/restful_introduction.htm    (Java Based)
+
+7. What is the difference between sopan and rest webservices.
+   https://stackoverflow.com/questions/30581530/what-is-the-difference-between-soap-and-rest-webservices-can-soap-be-restful
