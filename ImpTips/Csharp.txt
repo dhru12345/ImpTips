@@ -14,8 +14,19 @@ http://www.diffen.com/difference/Inner_Join_vs_Outer_Join
   Web service architecture & Introduction (https://www.guru99.com/web-service-architecture.html)
 
   https://www.guru99.com/restful-web-services.html (Good explanation)
+  https://blog.smartbear.com/apis/understanding-soap-and-rest-basics/
   https://www.codeproject.com/Articles/255684/Create-and-Consume-RESTFul-Service-in-NET-Framewor    (Window Based)
   https://www.tutorialspoint.com/restful/restful_introduction.htm    (Java Based)
 
 7. What is the difference between sopan and rest webservices.
    https://stackoverflow.com/questions/30581530/what-is-the-difference-between-soap-and-rest-webservices-can-soap-be-restful
+8. Dot Net interview questions
+  https://dotnetinterviewquestion.wordpress.com/2013/02/11/how-to-prepare-for-c-and-netinterviews/
+  9. Learn about MVC
+    https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/
+     https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-aspnet-mvc3/cs/index
+10. Parallel Programming in .NET
+https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/
+11. Async and await Programming in .NET
+https://docs.microsoft.com/en-us/dotnet/csharp/async (VERY IMPORTANT)
+https://msdn.microsoft.com/library/hh191443(vs.110).aspx
